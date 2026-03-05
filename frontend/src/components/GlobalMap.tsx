@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { MapContainer, TileLayer, CircleMarker, Popup } from 'react-leaflet';
-import { Zap, ShieldAlert, Activity, Navigation, Radio } from 'lucide-react';
+import { Activity, Navigation, Radio } from 'lucide-react';
 import { Line } from 'react-chartjs-2';
 import 'leaflet/dist/leaflet.css';
 

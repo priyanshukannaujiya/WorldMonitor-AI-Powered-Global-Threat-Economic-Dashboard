@@ -1,6 +1,4 @@
-import React from 'react';
 import { AlertCircle, Anchor, Zap, ShieldAlert, Navigation } from 'lucide-react';
-import classNames from 'classnames';
 
 const ConflictTracker = () => {
     return (

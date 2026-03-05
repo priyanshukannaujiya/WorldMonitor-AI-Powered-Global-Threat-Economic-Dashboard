@@ -1,4 +1,3 @@
-import React from 'react';
 import { Globe, Activity, ScanLine, LayoutDashboard } from 'lucide-react';
 
 interface HeaderProps {
