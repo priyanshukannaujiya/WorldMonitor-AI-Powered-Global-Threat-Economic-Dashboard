@@ -6,6 +6,8 @@
 
 **WorldMonitor** is an AI-powered global economic and geopolitical intelligence platform. It continuously aggregates, analyzes, and visualizes worldwide news, geopolitical events, supply chain risks, startup ecosystems, and macroeconomic indicators. By leveraging open-source intelligence (OSINT), Natural Language Processing (NLP), and Machine Learning (ML), it acts as a decision-support system for analysts, investors, and researchers.
 
+🌐 **[View Live Dashboard Preview](https://priyanshukannaujiya.github.io/WorldMonitor-AI-Powered-Global-Threat-Economic-Dashboard/)**
+
 ## 🌟 Key Features
 
 * **Global Conflict Tracker:** Interactive mapping and real-time visualization of geopolitical hot zones (e.g., Middle East theater, Taiwan Strait).
